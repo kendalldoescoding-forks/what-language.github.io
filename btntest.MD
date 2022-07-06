@@ -1,7 +1,1 @@
-<div class="mdc-touch-target-wrapper">
-  <button class="mdc-button mdc-button--touch">
-    <span class="mdc-button__ripple"></span>
-    <span class="mdc-button__touch"></span>
-    <span class="mdc-button__label">My Accessible Button</span>
-  </button>
-</div>
+[Click me](http://www.google.com){: .btn}
