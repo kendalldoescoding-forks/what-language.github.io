@@ -6,3 +6,5 @@ To download go to [https://github.com/what-language/interpreter/releases/](https
 
 # Guide
 Checkout our guide pdf  [https://what-language.github.io/guide.pdf](https://what-language.github.io/guide.pdf)
+# Branding
+Our logo's picture is from http://emoticonshd.com/
