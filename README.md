@@ -3,15 +3,11 @@ What Language is a programming language which we have designed in the coding lan
 
 # Download
 What language is a very portable language so if you just want it to be portable then use: <br>
-[Windows](https://github.com/what-language/interpreter/releases/download/4.0.0/wli.exe) <br>
-[Linux](https://github.com/what-language/interpreter/releases/download/4.0.0/wli) <br>
+[Windows](https://github.com/what-language/interpreter/releases/download/4.1.0/wli.exe) <br>
+
 Windows cmd: <br>
 ```sh
-powershell Invoke-WebRequest https://github.com/what-language/interpreter/releases/download/4.0.0/wli.exe -OutFile ./wli.exe
-```
-Linux cmd: <br>
-```sh
-wget https://github.com/what-language/interpreter/releases/download/4.0.0/wli
+powershell Invoke-WebRequest https://github.com/what-language/interpreter/releases/download/4.1.0/wli.exe -OutFile ./wli.exe
 ```
 But if you want to get it installed on your system then <br>
 [Windows](https://github.com/what-language/installer/releases/download/1.0.0/what-language-installer.bat) <br>
