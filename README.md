@@ -14,7 +14,7 @@ Linux: <br>
 wget https://github.com/what-language/interpreter/releases/download/4.1.1/wli
 ```
 But if you want to get it installed on your system then <br>
-[Windows](https://github.com/what-language/installer/releases/download/1.1.0/what-language-installer.bat) <br>
+[Windows](https://github.com/what-language/installer/releases/download/1.1.1/what-language-installer.bat) <br>
 and then run the bat file as admin
 
 
