@@ -21,4 +21,4 @@ wget https://github.com/what-language/interpreter/releases/download/5.0.0/wli | 
 Checkout our guide pdf  [https://what-language.github.io/guide.pdf](https://what-language.github.io/guide.pdf).
 
 # Branding
-Our logo's picture is from http://emoticonshd.com.
+Our logo's picture is from https://emoticonshd.com.
