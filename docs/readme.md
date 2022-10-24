@@ -46,4 +46,18 @@ Typing inter.gen.res- Will restart the computer.
 For example: <br>
 inter.gen.res-
 
- 
+### Interpreter
+Usefull infromation about the interpreter
+# args 
+The args supported by wli
+# --update
+Check for updates.
+# --version
+Get the version of the interpreter.
+# --about
+About.
+# --help
+Get help.
+# --credits
+Credits.
+
