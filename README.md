@@ -11,7 +11,7 @@ What language is a very portable language so if you just want it to be portable 
 
 
 # Guide
-Checkout our guide pdf  [https://what-language.github.io/guide.pdf](https://what-language.github.io/guide.pdf).
+Checkout https://what-language.github.io/docs
 # Credits
 What-Language was created and designed by [Shourjjo Majumder](https://shourgamer2.tk/). Our website and docs have been created by [Kendall Pinto](http://kendalldoescoding.gq/)
 # Branding
